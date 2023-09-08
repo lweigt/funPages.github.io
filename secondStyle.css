@@ -52,7 +52,7 @@
   background-color: white;
 }
 .background-image {
-  background-image: url("./backgrounds/skyline.jpg");
+  background-image: url("skyline.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -72,7 +72,7 @@
 }
 
 .secondBackground {
-  background-image: url("./backgrounds/neoncity.jpg");
+  background-image: url("neoncity.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

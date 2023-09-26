@@ -52,7 +52,7 @@
   background-color: white;
 }
 .background-image {
-  background-image: url("skyline.jpg");
+  background-image: url("../backgrounds/skyline.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -72,7 +72,7 @@
 }
 
 .secondBackground {
-  background-image: url("neoncity.jpg");
+  background-image: url("../backgrounds/neoncity.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -147,7 +147,7 @@ cite {
 
 .audioSite {
   position: absolute;
-  top: 120%;
+  top: 115%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -233,4 +233,14 @@ cite {
 
 .philipp button:active {
   font-size: 23px;
+}
+
+.smurfbackground {
+  background-image: url("../backgrounds/smurf.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  position: relative;
 }
